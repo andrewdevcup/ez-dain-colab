@@ -11,8 +11,9 @@ This will install DAIN in your Google Drive (~300MB)
 
 ## To begin:
 
-* Download <code>EZ_DAIN_COLAB.ipynb</code> from this repository.
-* Visit Google Colaboratory (<a href="https://colab.research.google.com/" rel="nofollow">link</a>) and open the downloaded file, you can also save it in your Google Drive.
+* Visit Google Colaboratory (<a href="https://colab.research.google.com/" rel="nofollow">link</a>), go to Github tab and type this repository. 
+* Click and open <code>EZ_DAIN_COLAB.ipynb</code>
+* You can also save it in your Google Drive.
 
 # Manual
 **Setting up DAIN:**
