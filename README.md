@@ -36,8 +36,8 @@ This will install DAIN in your Google Drive (~300MB)
 *  DAIN lowers the resolution of the video a bit due to deformations in the borders caused by the interpolation process, so it crops it. Is not so noticeable but you can disable/enable it ticking the Resize Hotfix checkbox.
 *  If you're using normal Colab (not pro) the runtime time limit you have is **5 hours**, so make sure to split the video into parts or else everything will stop. 
 Here's a list of max video length:
-   <br> 720p: 3 minutes
-   <br> 480p: 4.5 minutes
+   <br> 720p: 4 minutes at 30fps (on Tesla T4)
+   <br> 480p: 5.5 minutes at 30fps (on Tesla T4)
 
 **PLEASE NOTE:** The output video speed will be slower than the original, there is a thing i didn't quite understand, it may be the time step or time between frames, but if you have a video editor, speed up the footage to match the original one, use the audio channel separatedly if it has one.
 
